@@ -37,10 +37,3 @@ We welcome contributions to improve SurveyAI. To contribute, follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-You can join our [Discord community](https://discord.gg/yMMyxDZuSS) for more interactive support and discussions.
-
----
-
-Thank you for your interest in this organization! We look forward to your contributions and feedback.
