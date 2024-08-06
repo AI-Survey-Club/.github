@@ -17,7 +17,7 @@ SurveyAI leverages advanced AI techniques to interact with and complete surveys.
 ## Usage
 
 1. **Configure the bot:**
-    Adjust the settings in `config.json` as well as .env to match your survey requirements.
+    Adjust the settings in `config.json` as well as `.env` to match your survey requirements.
 
 2. **Run the bot:**
     ```sh
